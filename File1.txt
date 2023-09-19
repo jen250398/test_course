@@ -1,3 +1,5 @@
 Kirasa
 Naruchi
 Gloves
+Helmet
+Boots
