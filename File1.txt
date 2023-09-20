@@ -5,3 +5,5 @@ Helmet
 Boots
 Ponozhi
 
+Sword and Shield
+Magic
