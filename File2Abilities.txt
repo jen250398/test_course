@@ -1,1 +1,5 @@
-new line
+Strength
+Agility
+Archery
+One-handed sword
+Two-handed sword
